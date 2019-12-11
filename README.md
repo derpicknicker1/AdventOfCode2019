@@ -1,6 +1,6 @@
-# AdventOfCode2018
+# AdventOfCode2019
 
-Solutions for [Advent Of Code 2018](http://adventofcode.com/2018) written in C
+Solutions for [Advent Of Code 2019](http://adventofcode.com/2019) written in C
 
 The descriptions of the tasks are in the comments in the `*.c` files (see `src/`).
 
