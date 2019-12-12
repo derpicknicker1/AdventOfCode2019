@@ -76,8 +76,8 @@
 
 #include "advent.h"
 
-#define MAP_X 10000
-#define MAP_Y 10000
+#define MAP_X 15000
+#define MAP_Y 70000
 #define MAP_OFFSET_X MAP_X/2
 #define MAP_OFFSET_Y MAP_Y/2
 

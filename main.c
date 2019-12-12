@@ -26,10 +26,10 @@ int main() {
     execute(2)
     execute(3)
     execute(4) 
-    execute(5) */
-  execute(6)
-/*	execute(7)
-	execute(8)
+    execute(5) 
+    execute(6)  */
+	execute(7)
+/*	execute(8)
 	execute(9)
 	execute(10)
 	execute(11)
